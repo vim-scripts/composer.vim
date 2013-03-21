@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4480
+
+Usage
+
+:Composer is a wrapper for php composer.phar. You can call :Composer about for example.
+
+:ComposerInstall is a shortcut for php composer.phar install
+
+:ComposerUpdate to run php composer.phar update
+
+Script is hosted here https://github.com/detook/vim-composer
